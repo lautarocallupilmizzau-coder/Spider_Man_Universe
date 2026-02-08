@@ -1,5 +1,7 @@
 # 🕸️ Spider_Man_Universe  
 ### Análisis de datos del Spider‑Verse utilizando SQL, CSV y visualizaciones
+![spiderman](https://github.com/user-attachments/assets/1b52bf35-cc9e-42c9-ade4-b41cafdae0a5)
+
 
 Este proyecto explora el universo de Spider‑Man desde una perspectiva analítica, utilizando **SQL**, **consultas avanzadas**, **archivos CSV** y **gráficos comparativos**.  
 El objetivo es demostrar habilidades técnicas en modelado de datos, consultas complejas y presentación visual, integrando un tema creativo y atractivo.
