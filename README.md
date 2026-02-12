@@ -117,6 +117,7 @@ Este proyecto tiene como finalidad:
 - Incorporar más universos y personajes  
 - Crear un análisis narrativo del Spider‑Verse  
 - Automatizar la carga de datos con Python (futuro)
+![Spider-Man](https://github.com/user-attachments/assets/d7714ba8-68ff-4a02-99b5-f01223bec9dc)
 
 ---
 
